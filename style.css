@@ -10,7 +10,7 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url(images/bg.jpeg);
+  background-image: url(../bg.jpeg);
   background-position: center center;
 }
 
